@@ -1,0 +1,421 @@
+Started GET "/" for 172.26.0.1 at 2022-06-23 13:10:16 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/bundle/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.4ms | Allocations: 644)
+Completed 200 OK in 19ms (Views: 7.7ms | ActiveRecord: 0.0ms | Allocations: 4949)
+
+
+Started GET "/" for 172.26.0.1 at 2022-06-23 13:41:18 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/bundle/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.3ms | Allocations: 536)
+Completed 200 OK in 8ms (Views: 3.5ms | ActiveRecord: 0.0ms | Allocations: 3612)
+
+
+Started GET "/" for 172.26.0.1 at 2022-06-23 13:56:19 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/bundle/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.5ms | Allocations: 319)
+Completed 200 OK in 2ms (Views: 1.6ms | Allocations: 1003)
+
+
+Started GET "/" for 172.26.0.1 at 2022-06-23 13:56:20 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/bundle/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 26)
+Completed 200 OK in 1ms (Views: 1.2ms | Allocations: 243)
+
+
+Started GET "/" for 172.26.0.1 at 2022-06-23 13:56:20 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/bundle/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 27)
+Completed 200 OK in 1ms (Views: 0.7ms | Allocations: 226)
+
+
+Started GET "/" for 172.26.0.1 at 2022-06-23 13:56:20 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/bundle/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 26)
+Completed 200 OK in 1ms (Views: 0.6ms | Allocations: 219)
+
+
+Started GET "/" for 172.26.0.1 at 2022-06-23 13:56:20 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/bundle/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.2ms | Allocations: 26)
+Completed 200 OK in 3ms (Views: 2.4ms | Allocations: 219)
+
+
+Started GET "/site" for 172.26.0.1 at 2022-06-23 13:56:23 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [GET] "/site"):
+  
+Started GET "/site/index" for 172.26.0.1 at 2022-06-23 13:56:29 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by SiteController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering site/index.html.erb within layouts/application
+  Rendered site/index.html.erb within layouts/application (Duration: 0.9ms | Allocations: 144)
+  Rendered layout layouts/application.html.erb (Duration: 274.1ms | Allocations: 67457)
+Completed 200 OK in 298ms (Views: 296.3ms | Allocations: 68393)
+
+
+Started GET "/site/index" for 172.26.0.1 at 2022-06-23 13:57:24 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by SiteController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering site/index.html.erb within layouts/application
+  Rendered site/index.html.erb within layouts/application (Duration: 1.3ms | Allocations: 342)
+  Rendered layout layouts/application.html.erb (Duration: 55.3ms | Allocations: 20330)
+Completed 200 OK in 64ms (Views: 58.4ms | ActiveRecord: 0.0ms | Allocations: 23572)
+
+
+Started GET "/site/index" for 172.26.0.1 at 2022-06-23 13:57:24 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by SiteController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering site/index.html.erb within layouts/application
+  Rendered site/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 18)
+  Rendered layout layouts/application.html.erb (Duration: 11.6ms | Allocations: 1966)
+Completed 200 OK in 13ms (Views: 12.8ms | ActiveRecord: 0.0ms | Allocations: 2258)
+
+
+Started GET "/site/index" for 172.26.0.1 at 2022-06-23 13:57:26 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by SiteController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering site/index.html.erb within layouts/application
+  Rendered site/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 18)
+  Rendered layout layouts/application.html.erb (Duration: 9.9ms | Allocations: 1965)
+Completed 200 OK in 11ms (Views: 11.0ms | ActiveRecord: 0.0ms | Allocations: 2215)
+
+
+Started GET "/site/index" for 172.26.0.1 at 2022-06-23 13:57:27 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by SiteController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering site/index.html.erb within layouts/application
+  Rendered site/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 18)
+  Rendered layout layouts/application.html.erb (Duration: 7.1ms | Allocations: 1962)
+Completed 200 OK in 8ms (Views: 7.8ms | ActiveRecord: 0.0ms | Allocations: 2212)
+
+
+Started GET "/site/index" for 172.26.0.1 at 2022-06-23 13:59:59 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by SiteController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering site/index.html.erb within layouts/application
+  Rendered site/index.html.erb within layouts/application (Duration: 1.4ms | Allocations: 342)
+  Rendered layout layouts/application.html.erb (Duration: 55.5ms | Allocations: 20341)
+Completed 200 OK in 64ms (Views: 58.7ms | ActiveRecord: 0.0ms | Allocations: 23584)
+
+
+Started GET "/site/index" for 172.26.0.1 at 2022-06-23 14:00:28 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by SiteController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering site/index.html.erb within layouts/application
+  Rendered site/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 18)
+  Rendered layout layouts/application.html.erb (Duration: 254.6ms | Allocations: 33966)
+Completed 200 OK in 256ms (Views: 255.4ms | ActiveRecord: 0.0ms | Allocations: 34259)
+
+
+Started GET "/" for 172.26.0.1 at 2022-07-05 12:53:28 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/bundle/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.2ms | Allocations: 536)
+Completed 200 OK in 9ms (Views: 3.6ms | ActiveRecord: 0.0ms | Allocations: 3628)
+
+
+Started GET "/" for 172.26.0.1 at 2022-07-05 13:01:06 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/bundle/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.5ms | Allocations: 319)
+Completed 200 OK in 2ms (Views: 1.4ms | Allocations: 1006)
+
+
+Started GET "/site/index" for 172.26.0.1 at 2022-07-05 13:01:26 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by SiteController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering site/index.html.erb within layouts/application
+  Rendered site/index.html.erb within layouts/application (Duration: 0.8ms | Allocations: 145)
+  Rendered layout layouts/application.html.erb (Duration: 157.3ms | Allocations: 23589)
+Completed 200 OK in 160ms (Views: 159.4ms | Allocations: 24516)
+
+
+  [1m[35m (59.5ms)[0m  [1m[35mCREATE TABLE `schema_migrations` (`version` varchar(255) NOT NULL PRIMARY KEY)[0m
+  [1m[35m (24.7ms)[0m  [1m[35mCREATE TABLE `ar_internal_metadata` (`key` varchar(255) NOT NULL PRIMARY KEY, `value` varchar(255), `created_at` datetime(6) NOT NULL, `updated_at` datetime(6) NOT NULL)[0m
+  [1m[35m (0.7ms)[0m  [1m[34mSELECT GET_LOCK('6643483464595264770', 0)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (16.1ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Migrating to CreateEvents (20220705050146)
+  [1m[35m (30.5ms)[0m  [1m[35mCREATE TABLE `events` (`id` bigint NOT NULL AUTO_INCREMENT PRIMARY KEY, `event_type` varchar(255), `event_date` date, `title` text, `speaker` varchar(255), `host` varchar(255), `published` tinyint(1), `created_at` datetime(6) NOT NULL, `updated_at` datetime(6) NOT NULL)[0m
+  [1m[36mTRANSACTION (0.6ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mActiveRecord::SchemaMigration Create (7.1ms)[0m  [1m[32mINSERT INTO `schema_migrations` (`version`) VALUES ('20220705050146')[0m
+  [1m[36mTRANSACTION (2.6ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mActiveRecord::InternalMetadata Load (3.7ms)[0m  [1m[34mSELECT `ar_internal_metadata`.* FROM `ar_internal_metadata` WHERE `ar_internal_metadata`.`key` = 'environment' LIMIT 1[0m
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mActiveRecord::InternalMetadata Create (1.8ms)[0m  [1m[32mINSERT INTO `ar_internal_metadata` (`key`, `value`, `created_at`, `updated_at`) VALUES ('environment', 'development', '2022-07-05 05:02:33.974406', '2022-07-05 05:02:33.974406')[0m
+  [1m[36mTRANSACTION (1.4ms)[0m  [1m[35mCOMMIT[0m
+  [1m[35m (0.7ms)[0m  [1m[34mSELECT RELEASE_LOCK('6643483464595264770')[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.8ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (1.0ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (1.1ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mEvent Create (2.5ms)[0m  [1m[32mINSERT INTO `events` (`event_type`, `event_date`, `title`, `speaker`, `host`, `published`, `created_at`, `updated_at`) VALUES ('Symposium', '2022-07-14', 'Ada Lovelace — The Making of a Computer Scientist', 'Monica S. Lam, Yoky Matsuoka, Dorit Aharonov', 'Ursula Martin', FALSE, '2022-07-05 05:06:40.283597', '2022-07-05 05:06:40.283597')[0m
+  [1m[36mTRANSACTION (1.4ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mEvent Create (0.9ms)[0m  [1m[32mINSERT INTO `events` (`event_type`, `event_date`, `title`, `speaker`, `host`, `published`, `created_at`, `updated_at`) VALUES ('Colloquium', '2022-04-12', 'Scholasticism in Medieval and Early Modern History', 'Robin Fleming', 'Henry Louis Gates Jr.', TRUE, '2022-07-05 05:06:40.290341', '2022-07-05 05:06:40.290341')[0m
+  [1m[36mTRANSACTION (0.9ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mEvent Create (0.9ms)[0m  [1m[32mINSERT INTO `events` (`event_type`, `event_date`, `title`, `speaker`, `host`, `published`, `created_at`, `updated_at`) VALUES ('Symposium', '2022-03-30', 'Charles II and the English Restoration', 'Kate Williams, Patrick Morrah, Charles Spencer', 'Lucy Worsley', TRUE, '2022-07-05 05:06:40.293824', '2022-07-05 05:06:40.293824')[0m
+  [1m[36mTRANSACTION (0.7ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mEvent Create (0.6ms)[0m  [1m[32mINSERT INTO `events` (`event_type`, `event_date`, `title`, `speaker`, `host`, `published`, `created_at`, `updated_at`) VALUES ('Symposium', '2022-03-01', 'Remembering the Titanic, One of the Greatest Ever Maritime Tragedies', 'William Hazelgrove, Lauren Tarshis, Andrew Wilson', 'Dan Snow', TRUE, '2022-07-05 05:06:40.303268', '2022-07-05 05:06:40.303268')[0m
+  [1m[36mTRANSACTION (0.7ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mEvent Create (0.6ms)[0m  [1m[32mINSERT INTO `events` (`event_type`, `event_date`, `title`, `speaker`, `host`, `published`, `created_at`, `updated_at`) VALUES ('Symposium', '2022-02-07', 'Symbolism in Portraits of Queen Elizabeth I', 'David Starkey, Susan Doran, Alison Weir', 'Suzannah Lipscomb', TRUE, '2022-07-05 05:06:40.306368', '2022-07-05 05:06:40.306368')[0m
+  [1m[36mTRANSACTION (0.7ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mEvent Create (0.6ms)[0m  [1m[32mINSERT INTO `events` (`event_type`, `event_date`, `title`, `speaker`, `host`, `published`, `created_at`, `updated_at`) VALUES ('Colloquium', '2021-12-19', 'A Brief History Of China\'s Dynasties', 'Iris Chang', 'Pamela Kyle Crossley', TRUE, '2022-07-05 05:06:40.309452', '2022-07-05 05:06:40.309452')[0m
+  [1m[36mTRANSACTION (0.7ms)[0m  [1m[35mCOMMIT[0m
+Started GET "/api/events" for 172.26.0.1 at 2022-07-05 14:18:14 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.9ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by Api::EventsController#index as HTML
+  [1m[36mEvent Load (1.8ms)[0m  [1m[34mSELECT `events`.* FROM `events`[0m
+  ↳ app/controllers/api/events_controller.rb:6:in `index'
+Completed 200 OK in 34ms (Views: 7.1ms | ActiveRecord: 17.1ms | Allocations: 8314)
+
+
+Started GET "/" for 172.26.0.1 at 2022-07-05 16:14:59 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[36mActiveRecord::SchemaMigration Pluck (18.1ms)[0m  [1m[34mSELECT `schema_migrations`.`version` FROM `schema_migrations` ORDER BY `schema_migrations`.`version` ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/bundle/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.0ms | Allocations: 535)
+Completed 200 OK in 8ms (Views: 3.1ms | ActiveRecord: 0.0ms | Allocations: 3669)
+
+
+Started GET "/site/index" for 172.26.0.1 at 2022-07-05 16:15:05 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by SiteController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering site/index.html.erb within layouts/application
+  Rendered site/index.html.erb within layouts/application (Duration: 0.9ms | Allocations: 146)
+  Rendered layout layouts/application.html.erb (Duration: 62.7ms | Allocations: 20149)
+Completed 200 OK in 67ms (Views: 65.5ms | ActiveRecord: 0.0ms | Allocations: 21161)
+
+
+Started GET "/site/index" for 172.26.0.1 at 2022-07-05 16:19:37 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by SiteController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering site/index.html.erb within layouts/application
+  Rendered site/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 18)
+  Rendered layout layouts/application.html.erb (Duration: 269.2ms | Allocations: 34881)
+Completed 200 OK in 270ms (Views: 270.1ms | ActiveRecord: 0.0ms | Allocations: 35151)
+
+
+Started GET "/api/events" for 172.26.0.1 at 2022-07-05 16:19:38 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Api::EventsController#index as */*
+  [1m[36mEvent Load (8.2ms)[0m  [1m[34mSELECT `events`.* FROM `events`[0m
+  ↳ app/controllers/api/events_controller.rb:6:in `index'
+Completed 200 OK in 41ms (Views: 8.6ms | ActiveRecord: 30.4ms | Allocations: 8338)
+
+
+Started GET "/api/events" for 172.26.0.1 at 2022-07-05 16:19:38 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Api::EventsController#index as */*
+  [1m[36mEvent Load (1.2ms)[0m  [1m[34mSELECT `events`.* FROM `events`[0m
+  ↳ app/controllers/api/events_controller.rb:6:in `index'
+Completed 200 OK in 3ms (Views: 1.8ms | ActiveRecord: 1.2ms | Allocations: 1602)
+
+
+Started GET "/" for 172.26.0.1 at 2022-07-05 16:32:56 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/bundle/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-7.0.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.5ms | Allocations: 320)
+Completed 200 OK in 2ms (Views: 1.6ms | Allocations: 912)
+
+
+Started GET "/site/index" for 172.26.0.1 at 2022-07-05 16:35:02 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by SiteController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering site/index.html.erb within layouts/application
+  Rendered site/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 18)
+  Rendered layout layouts/application.html.erb (Duration: 243.8ms | Allocations: 34059)
+Completed 200 OK in 245ms (Views: 244.5ms | Allocations: 34321)
+
+
+Started GET "/api/events" for 172.26.0.1 at 2022-07-05 16:35:03 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Api::EventsController#index as */*
+  [1m[36mEvent Load (1.1ms)[0m  [1m[34mSELECT `events`.* FROM `events`[0m
+  ↳ app/controllers/api/events_controller.rb:6:in `index'
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 1.8ms | Allocations: 1780)
+
+
+Started GET "/api/events" for 172.26.0.1 at 2022-07-05 16:35:03 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Api::EventsController#index as */*
+  [1m[36mEvent Load (1.0ms)[0m  [1m[34mSELECT `events`.* FROM `events`[0m
+  ↳ app/controllers/api/events_controller.rb:6:in `index'
+Completed 200 OK in 3ms (Views: 1.5ms | ActiveRecord: 1.0ms | Allocations: 1525)
+
+
+Started GET "/site/index" for 172.26.0.1 at 2022-07-05 16:35:42 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by SiteController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering site/index.html.erb within layouts/application
+  Rendered site/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 18)
+  Rendered layout layouts/application.html.erb (Duration: 198.3ms | Allocations: 33807)
+Completed 200 OK in 199ms (Views: 198.9ms | ActiveRecord: 0.0ms | Allocations: 34059)
+
+
+Started GET "/api/events" for 172.26.0.1 at 2022-07-05 16:35:43 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Api::EventsController#index as */*
+  [1m[36mEvent Load (1.0ms)[0m  [1m[34mSELECT `events`.* FROM `events`[0m
+  ↳ app/controllers/api/events_controller.rb:6:in `index'
+Completed 200 OK in 3ms (Views: 1.6ms | ActiveRecord: 1.0ms | Allocations: 1531)
+
+
+Started GET "/api/events" for 172.26.0.1 at 2022-07-05 16:35:43 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Api::EventsController#index as */*
+  [1m[36mEvent Load (1.0ms)[0m  [1m[34mSELECT `events`.* FROM `events`[0m
+  ↳ app/controllers/api/events_controller.rb:6:in `index'
+Completed 200 OK in 3ms (Views: 1.8ms | ActiveRecord: 1.0ms | Allocations: 1523)
+
+
+Started GET "/site/index" for 172.26.0.1 at 2022-07-05 17:22:42 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by SiteController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering site/index.html.erb within layouts/application
+  Rendered site/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 18)
+  Rendered layout layouts/application.html.erb (Duration: 6.2ms | Allocations: 1988)
+Completed 200 OK in 7ms (Views: 6.7ms | Allocations: 2232)
+
+
+Started GET "/api/events" for 172.26.0.1 at 2022-07-05 17:22:42 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Api::EventsController#index as */*
+  [1m[36mEvent Load (1.6ms)[0m  [1m[34mSELECT `events`.* FROM `events`[0m
+  ↳ app/controllers/api/events_controller.rb:6:in `index'
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 2.4ms | Allocations: 1648)
+
+
+Started GET "/api/events" for 172.26.0.1 at 2022-07-05 17:22:42 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Api::EventsController#index as */*
+  [1m[36mEvent Load (1.2ms)[0m  [1m[34mSELECT `events`.* FROM `events`[0m
+  ↳ app/controllers/api/events_controller.rb:6:in `index'
+Completed 200 OK in 3ms (Views: 1.9ms | ActiveRecord: 1.2ms | Allocations: 1523)
+
+
+Started GET "/site/index" for 172.26.0.1 at 2022-07-05 18:26:41 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [GET] "/site/index"):
+  
+Started GET "/" for 172.26.0.1 at 2022-07-05 18:27:09 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started GET "/events" for 172.26.0.1 at 2022-07-05 18:27:09 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by SiteController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering site/index.html.erb within layouts/application
+  Rendered site/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 26)
+  Rendered layout layouts/application.html.erb (Duration: 214.0ms | Allocations: 35183)
+Completed 200 OK in 215ms (Views: 214.9ms | Allocations: 35828)
+
+
+Started GET "/api/events" for 172.26.0.1 at 2022-07-05 18:27:09 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Api::EventsController#index as */*
+  [1m[36mEvent Load (2.0ms)[0m  [1m[34mSELECT `events`.* FROM `events`[0m
+  ↳ app/controllers/api/events_controller.rb:6:in `index'
+Completed 200 OK in 15ms (Views: 11.7ms | ActiveRecord: 3.3ms | Allocations: 4461)
+
+
+Started GET "/api/events" for 172.26.0.1 at 2022-07-05 18:27:09 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Api::EventsController#index as */*
+  [1m[36mEvent Load (1.2ms)[0m  [1m[34mSELECT `events`.* FROM `events`[0m
+  ↳ app/controllers/api/events_controller.rb:6:in `index'
+Completed 200 OK in 4ms (Views: 2.1ms | ActiveRecord: 1.2ms | Allocations: 1532)
+
+
+Started GET "/events/1" for 172.26.0.1 at 2022-07-05 18:30:18 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by SiteController#index as HTML
+  Parameters: {"id"=>"1"}
+  Rendering layout layouts/application.html.erb
+  Rendering site/index.html.erb within layouts/application
+  Rendered site/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 20)
+  Rendered layout layouts/application.html.erb (Duration: 6.3ms | Allocations: 2153)
+Completed 200 OK in 7ms (Views: 6.9ms | ActiveRecord: 0.0ms | Allocations: 2428)
+
+
+Started GET "/api/events" for 172.26.0.1 at 2022-07-05 18:30:18 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started GET "/api/events" for 172.26.0.1 at 2022-07-05 18:30:19 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Api::EventsController#index as */*
+  [1m[36mEvent Load (1.2ms)[0m  [1m[34mSELECT `events`.* FROM `events`[0m
+  ↳ app/controllers/api/events_controller.rb:6:in `index'
+Completed 200 OK in 4ms (Views: 2.2ms | ActiveRecord: 1.2ms | Allocations: 1606)
+
+
+Processing by Api::EventsController#index as */*
+  [1m[36mEvent Load (1.2ms)[0m  [1m[34mSELECT `events`.* FROM `events`[0m
+  ↳ app/controllers/api/events_controller.rb:6:in `index'
+Completed 200 OK in 3ms (Views: 1.6ms | ActiveRecord: 1.2ms | Allocations: 1523)
+
+
+Started GET "/events/1" for 172.26.0.1 at 2022-07-05 18:30:23 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by SiteController#index as HTML
+  Parameters: {"id"=>"1"}
+  Rendering layout layouts/application.html.erb
+  Rendering site/index.html.erb within layouts/application
+  Rendered site/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 18)
+  Rendered layout layouts/application.html.erb (Duration: 217.1ms | Allocations: 34918)
+Completed 200 OK in 218ms (Views: 217.7ms | ActiveRecord: 0.0ms | Allocations: 35164)
+
+
+Started GET "/api/events" for 172.26.0.1 at 2022-07-05 18:30:23 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started GET "/api/events" for 172.26.0.1 at 2022-07-05 18:30:23 +0900
+Cannot render console from 172.26.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Api::EventsController#index as */*
+Processing by Api::EventsController#index as */*
+  [1m[36mEvent Load (1.1ms)[0m  [1m[34mSELECT `events`.* FROM `events`[0m
+  ↳ app/controllers/api/events_controller.rb:6:in `index'
+Completed 200 OK in 4ms (Views: 2.3ms | ActiveRecord: 1.1ms | Allocations: 2140)
+
+
+  [1m[36mEvent Load (1.5ms)[0m  [1m[34mSELECT `events`.* FROM `events`[0m
+  ↳ app/controllers/api/events_controller.rb:6:in `index'
+Completed 200 OK in 8ms (Views: 5.4ms | ActiveRecord: 2.3ms | Allocations: 3322)
+
+
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked host: argon.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked host: argon.com
